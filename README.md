@@ -50,7 +50,7 @@ Mixins for the class based views to check authenticated routes and permissions t
 ## 1. LoginRequiredixin
 ## 2. UserPassesTestMixin
 
-All in all, this sole purpose of mine behind developing this project (webapp) was to further my coding skills in python/django and significant understanding of the django web development framework. Although, it couldn't have been possible without some youtube tutorials on django and the awesome django documentation provided by the django community. Also how can I forget Stackoverflow.com 
+All in all, the sole purpose of mine behind developing this project (webapp) was to further my coding skills in python/django and significant understanding of the django web development framework. Although, it couldn't have been possible without some youtube tutorials on django and the awesome django documentation provided by the django community. Also how can I forget Stackoverflow.com 
 
 Do checkout the screenshots of the project and the project as well. Thank you for reading. 
 
